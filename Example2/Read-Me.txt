@@ -1,0 +1,13 @@
+This is a simnple web application which is multtasked
+ 1-sends messages, 
+ 2-do payment and stores messages and profile and 
+ 3-creates new profiles and messages.
+
+#This code has a DB class which will store the data msgs and profiles in data format as its stored in real DB.
+!This code was build and Run using ECLIPSE IDE and Jboss v6 application server installed on CENTOS
+
+#You need a webserver apache, jboss, or any app server and IDE to test the programm
+
+#Given the Ecplise WorkSpace just open it in Eclipse Run, Test, change debuge and injoy.
+
+#you need to understand how restfull web services work, all what you need is to follow some youtube videos and injoy.

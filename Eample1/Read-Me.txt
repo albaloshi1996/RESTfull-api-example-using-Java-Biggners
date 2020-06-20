@@ -1,0 +1,8 @@
+This is simple Test program for JaxRS web services.
+
+!This code was build and Run using ECLIPSE IDE and Jboss v6 application server installed on CENTOS
+
+#You need a webserver apache, jboss, or any app server and IDE to test the programm
+
+#Given the program code if your using IDE other than Ecplise, if using Ecplise the WorkSpace is also given
+#Just download run and test have fun
